@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スコールアンドレスポンス",
+  "base_artist": "Moroha",
+  "createdAt": "2026-03-06T18:12:32.404626Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スコールアンドレスポンス",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_スコールアンドレスポンス_MOROHA.txt"
+    }
+  ]
+}
